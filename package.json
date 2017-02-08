@@ -1,0 +1,22 @@
+{
+  "name": "electron-download-item-cancel-fired-twice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengyaolong/electron-download-item-cancel-fired-twice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengyaolong/electron-download-item-cancel-fired-twice/issues"
+  },
+  "homepage": "https://github.com/dengyaolong/electron-download-item-cancel-fired-twice#readme",
+  "devDependencies": {
+    "electron": "^1.4.15"
+  }
+}
